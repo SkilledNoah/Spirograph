@@ -1,3 +1,7 @@
+# ---------------------------------------
+# Author: Noah Louvet
+# ---------------------------------------
+
 import turtle
 from turtle import Turtle, Screen
 from random import choice, randint
