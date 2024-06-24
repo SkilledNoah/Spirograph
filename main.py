@@ -1,6 +1,11 @@
-# ---------------------------------------
-# Author: Noah Louvet
-# ---------------------------------------
+"""
+---------------------------------------
+    * Course: 100 Days of Code - Dra. Angela Yu
+    * Author: Noah Louvet
+    * Day: 18 - Spirograph
+    * Subject: Tkinter GUI
+---------------------------------------
+"""
 
 import turtle
 from turtle import Turtle, Screen
